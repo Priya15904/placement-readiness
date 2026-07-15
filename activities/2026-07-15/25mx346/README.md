@@ -1,4 +1,4 @@
-# Sample Submission for 25mx103
+# Sample Submission for 25mx346
 
 This is an automated sample submission for testing the UI.
 
@@ -8,5 +8,5 @@ This is an automated sample submission for testing the UI.
 - ✅ Syntax highlighting
 
 ```javascript
-console.log("Hello from 25mx103");
+console.log("Hello from 25mx346");
 ```
